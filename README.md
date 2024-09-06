@@ -22,6 +22,13 @@
 ***
 
 <div align="center">
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=MINO1020&show_icons=true&theme=radical" alt="MINO's GitHub stats" />
+  </p>
+</div>
+
+
+<div align="center">
   <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #22162d; color: #c9d19d;"> Contacts </h3>
     
