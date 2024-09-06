@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Minho&fontSize=90"
 </div>
 
 *** 
@@ -20,6 +20,13 @@
 </div>
 
 ***
+
+<div align="center">
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=MINO1020&show_icons=true&theme=radical" alt="MINO's GitHub stats" />
+  </p>
+</div>
+
 
 <div align="center">
   <div style="text-align: center;">
