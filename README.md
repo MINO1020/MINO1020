@@ -1,5 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"
+</div>
 
+*** 
+<div align="center">
+  <div style="text-align: center;">
+    <h3 style="border-bottom: 1px solid #22162d; color: #c9d19d;"> Stacks </h3>
+    
+  </div>
+</div>
 
 <!---
 MINO1020/MINO1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
