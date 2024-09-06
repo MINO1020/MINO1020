@@ -5,10 +5,28 @@
 *** 
 <div align="center">
   <div style="text-align: center;">
+    <h3 style="border-bottom: 1px solid #22162d; color: #c9d19d;"> About me </h3>
+    <p>안녕하세요. 백엔드 개발자 이민호입니다.</p>
+  </div>
+</div>
+
+___
+
+<div align="center">
+  <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #22162d; color: #c9d19d;"> Stacks </h3>
     
   </div>
 </div>
+___
+<div align="center">
+  <div style="text-align: center;">
+    <h3 style="border-bottom: 1px solid #22162d; color: #c9d19d;"> Contacts </h3>
+    
+  </div>
+</div>
+
+
 
 <!---
 MINO1020/MINO1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
