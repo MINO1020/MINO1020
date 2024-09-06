@@ -10,7 +10,7 @@
   </div>
 </div>
 
-___
+***
 
 <div align="center">
   <div style="text-align: center;">
@@ -18,7 +18,9 @@ ___
     
   </div>
 </div>
-___
+
+***
+
 <div align="center">
   <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #22162d; color: #c9d19d;"> Contacts </h3>
