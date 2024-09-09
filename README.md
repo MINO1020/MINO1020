@@ -20,8 +20,8 @@
   <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #22162d; color: #c9d19d;"> interests </h3>
     <p>🚀</p>
-    <p>운동 (**마라톤)</p>
-    <p>술 (**Tap Shop Bar)</p>
+    <p>운동 (헬스, 클라이밍 **마라톤)</p>
+    <p>술 (와인 **Tap Shop Bar)</p>
     <p>투자 </p>
   </div>
 </div>
